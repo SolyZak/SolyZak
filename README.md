@@ -35,12 +35,9 @@ I build reliable analytics pipelines and clean, production‑ready data models. 
 - **Analytics**: Reporting‑ready tables and clean metrics
 
 ## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolyZak&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolyZak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolyZak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolyZak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ## Contact
 Open an issue on any repo if you want to collaborate.
