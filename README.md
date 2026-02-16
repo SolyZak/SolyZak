@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Data Engineer</strong> • Pipelines • Analytics Modeling • Validation
+  <strong>Data Engineer</strong> • <strong>Backend Developer</strong> • Pipelines • Analytics Modeling • Validation
 </p>
 
 <p align="center">
@@ -34,10 +34,10 @@ I build reliable analytics pipelines and clean, production‑ready data models. 
 - **Pipelines**: Incremental loads, staging layers, validation checks
 - **Analytics**: Reporting‑ready tables and clean metrics
 
-## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SolyZak&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SolyZak&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+## Highlights
+- Production‑style data modeling and validation
+- Clean ETL structure with staging and star schema
+- Reproducible local runs with CI
 
 ## Contact
 Open an issue on any repo if you want to collaborate.
