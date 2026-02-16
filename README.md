@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00c853&height=200&section=header&text=Soly%20Zak&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00c853&height=200&section=header&text=Soliman%20Zakaira&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
