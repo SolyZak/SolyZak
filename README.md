@@ -1,20 +1,25 @@
-# Soly Zak
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00c853&height=200&section=header&text=Soly%20Zak&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+</p>
 
-Data engineer focused on reliable analytics pipelines, clean data models, and production-ready workflows. My portfolio projects use fully synthetic data to demonstrate real-world patterns without exposing confidential information.
+<p align="center">
+  <strong>Data Engineer</strong> • Pipelines • Analytics Modeling • Validation
+</p>
 
-## Overview
-- Location focus: Gulf & Middle East (regional scale, synthetic data)
-- Strengths: incremental ETL, validation, dimensional modeling, analytics enablement
-- Collaboration: clear docs, reproducible runs, CI where it matters
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-## Tech Stack
-**Languages**: Python, SQL
+## About
+I build reliable analytics pipelines and clean, production‑ready data models. My portfolio projects use fully synthetic data to showcase real‑world patterns without exposing confidential information.
 
-**Data Engineering**: ETL pipelines, staging layers, star schemas, incremental loading, data quality checks
-
-**Libraries**: Pandas, scikit-learn
-
-**Platforms**: SQLite (local demo), GitHub Actions (CI)
+- Region focus: Gulf & Middle East (large‑scale, synthetic data)
+- Strengths: incremental ETL, data validation, staging → star schema modeling
+- Values: clarity, reproducibility, and data trust
 
 ## Featured Projects
 - **Acme Security Regional Data Pipeline**
@@ -24,10 +29,18 @@ Data engineer focused on reliable analytics pipelines, clean data models, and pr
   - Baseline classification on synthetic engagement data
   - Repo: https://github.com/SolyZak/acme-security-data-science
 
-## What I Care About
-- Clean, testable data models that scale
-- Fast, reliable pipelines with clear lineage
-- Data products that teams can trust
+## Data Engineering Toolkit
+- **Modeling**: Star schema, dimensional modeling
+- **Pipelines**: Incremental loads, staging layers, validation checks
+- **Analytics**: Reporting‑ready tables and clean metrics
+
+## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolyZak&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolyZak&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## Contact
-Open an issue on any repo for collaboration or questions.
+Open an issue on any repo if you want to collaborate.
