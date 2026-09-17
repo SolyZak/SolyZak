@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Data Engineer</strong> &bull; <strong>Backend Developer</strong> &bull; <strong>Full-Stack Builder</strong>
-</p>
+  <strong>Data Engineer</strong> &bull; <strong>Backend Developer</strong> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
